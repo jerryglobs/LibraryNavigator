@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fd8ac60b-02a9-43d1-854e-685baac6f338" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/../.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/classes/" />
+    <ignored path="$PROJECT_DIR$/build/generated/not_namespaced_r_class_sources/" />
+    <ignored path="$PROJECT_DIR$/build/generated/source/r/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/annotation_processor_list/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/apk_list/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/blame/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/build-info/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/builds/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/bundle_manifest/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/check_manifest_result/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/compatible_screen_manifest/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/duplicate_classes_check/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/incremental/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/incremental-runtime-classes/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/incremental-verifier/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/instant-run-apk/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/instant_app_manifest/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/instant_run_app_info_output_file/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/instant_run_main_apk_resources/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/instant_run_merged_manifests/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/instant_run_split_apk_resources/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/javac/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/lint_jar/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/manifest-checker/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/merged_assets/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/merged_jni_libs/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/merged_manifests/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/merged_shaders/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/metadata_feature_manifest/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/prebuild/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/processed_res/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/reload-dex/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/res/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/resources/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/shader_assets/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/signing_config/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/split-apk/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/symbols/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/tmp/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/transforms/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/validate_signing_config/" />
+    <ignored path="$PROJECT_DIR$/build/outputs/" />
+    <ignored path="$PROJECT_DIR$/build/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="587" />
+    <option name="y" value="22" />
+    <option name="width" value="960" />
+    <option name="height" value="1049" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="not.eligible.for.single.variant.sync" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd8ac60b-02a9-43d1-854e-685baac6f338" name="Default Changelist" comment="" />
+      <created>1560139847888</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560139847888</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="851" extended-state="6" />
+    <layout>
+      <window_info id="Capture Tool" />
+      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.3295302" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Build Variants" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="Resources Explorer" />
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Logcat" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Build" visible="true" weight="0.3231198" />
+      <window_info anchor="bottom" id="Android Profiler" show_stripe_button="false" />
+      <window_info anchor="right" id="Device File Explorer" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Palette&#9;" />
+    </layout>
+  </component>
+</project>
